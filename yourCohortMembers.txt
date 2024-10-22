@@ -2,6 +2,7 @@ The time or name of your cohort:
 Dragon Riders of MTech
 
 First names of all your cohort classmates:
+Sam
 Mary
 Hiroko
 Travis
